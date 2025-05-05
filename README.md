@@ -8,7 +8,9 @@ This repo holds the Python GUI and embedded C code for the CyBot IRoomba Group F
   - Includes a punching Cy logo. <br/>
 # Embedded C code
   - Uses a mix of open interface and manually programmed peripherals.
-  - Contains a manual mode operated from the python GUI and an automated mode.
+  - Contains a manual mode operated from the Python GUI and an automated mode.
   - Uses fundamental embedded C code practices: Bit ops, modular design, descriptive declarations, and memory conservation.<br/>
 # Objective
-The project objective that was chosen was a mock bomb diffusal. The roomba controlled by the user would navigate the test field using the python GUI. Once the "town square" (black box) was found, the on-board computer would take control and find the largest pillar (bomb) and drive towards it effectively dissarming the bomb. 
+The project objective that was chosen was a mock bomb defusal. The Roomba controlled by the user would navigate the test field using the Python GUI. Once the "town square" (black box) was found, the onboard computer would take control and find the largest pillar (bomb) and drive towards it, effectively disarming the bomb. <br/>
+
+**The Python GUI was created with the help of online sources, university databases, and OpenAI to help with debugging. It was also created with no prior Python GUI experience and minimal Python knowledge in the span of 2 weeks. It was a valuable learning experience.**
